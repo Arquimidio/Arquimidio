@@ -8,3 +8,5 @@
 📧 Se quiser entrar em contato, envie um e-mail para gabrielstoppadossantos@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arquimidio&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arquimidio&show_icons=true&theme=radical)
+

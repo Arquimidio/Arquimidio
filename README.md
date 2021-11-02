@@ -1,4 +1,5 @@
 
+![200](https://user-images.githubusercontent.com/80360602/139760358-87b31047-d135-428e-a772-1be83c516f0f.gif)
 👋 Há 7 meses comecei a aprender a programar buscando uma transição de área (vindo do Direito). Desde então, realizei diversos cursos e projetos (alguns deles podem ser conferidos aqui).
 
 💻 Sei um pouco de Python e Node, mas boa parte do meu foco, até o momento, foi voltado ao front-end (HTML, CSS, JS, REACT)
@@ -6,6 +7,7 @@
 🌱 Apesar do foco no front, minha meta é o Full Stack! No momento, estou aprofundando meu conhecimento em Vanilla JS e Node.
 
 📧 Se quiser entrar em contato, envie um e-mail para gabrielstoppadossantos@gmail.com
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

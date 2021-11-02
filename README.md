@@ -1,5 +1,7 @@
 
-![giphy](https://user-images.githubusercontent.com/80360602/139761823-4933cf3b-5d63-40ec-80c1-d523ed6cad99.gif)
+!<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/80360602/139761823-4933cf3b-5d63-40ec-80c1-d523ed6cad99.gif">
+</p>
 
 
 👋 Há 7 meses comecei a aprender a programar buscando uma transição de área (vindo do Direito). Desde então, realizei diversos cursos e projetos (alguns deles podem ser conferidos aqui).

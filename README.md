@@ -11,7 +11,9 @@
 🌱 Apesar do foco no front, minha meta é o Full Stack! No momento, estou aprofundando meu conhecimento em Vanilla JS e Node.
 
 📧 Se quiser entrar em contato, envie um e-mail para gabrielstoppadossantos@gmail.com
-<a url='https://www.linkedin.com/in/gabriel-stoppa-dos-santos-8a15bb1b9/'>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
+<a url='https://www.linkedin.com/in/gabriel-stoppa-dos-santos-8a15bb1b9/'>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

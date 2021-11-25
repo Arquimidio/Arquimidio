@@ -10,7 +10,7 @@
 
 🌱 Apesar do foco no front, minha meta é o Full Stack! No momento, estou aprofundando meu conhecimento em Vanilla JS e Node.
 
-📧 Se quiser entrar em contato, envie um e-mail para gabrielstoppadossantos@gmail.com
+📧 Caso queira entrar em contato, envie um e-mail para gabrielstoppadossantos@gmail.com
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

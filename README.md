@@ -23,7 +23,8 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arquimidio1&theme=dark)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arquimidio&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arquimidio&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arquimidio&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

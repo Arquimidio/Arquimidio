@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Gabriel Stoppa</h1>
-<h3 align="center">Um apaixonado desenvolvedor FullStack do Brasil</h3>
+<img src="https://imgur.com/a/NSFO8Vz" width="100%">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arquimidio" alt="arquimidio" /></a> </p>
 

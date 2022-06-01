@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/NSFO8Vz" width="100%">
+<img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arquimidio" alt="arquimidio" /></a> </p>
 

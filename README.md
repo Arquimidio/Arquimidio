@@ -1,32 +1,27 @@
+<h1 align="center">Olá 👋, Eu sou Gabriel Stoppa</h1>
+<h3 align="center">Um apaixonado desenvolvedor FullStack do Brasil</h3>
 
-<p align="center">
-  <img width="900" height="400" src="https://user-images.githubusercontent.com/80360602/139761823-4933cf3b-5d63-40ec-80c1-d523ed6cad99.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arquimidio" alt="arquimidio" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@devgabriel_" target="blank"><img src="https://img.shields.io/twitter/follow/@devgabriel_?logo=twitter&style=for-the-badge" alt="@devgabriel_" /></a> </p>
+
+- 🌱 Atualmente, estou aprendendo **React e Express**
+
+- 👨‍💻 Meus projetos estão disponíveis em [https://portfoliodevgabriel.netlify.app/](https://portfoliodevgabriel.netlify.app/)
+
+- 📫 Como conversar comigo **gabrielstoppadossantos@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@devgabriel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devgabriel_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel stoppa dos santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel stoppa dos santos" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-👋 Há 10 meses comecei a aprender a programar buscando uma transição de área (vindo do Direito). Desde então, realizei diversos cursos e projetos (alguns deles podem ser conferidos aqui).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arquimidio&show_icons=true&locale=en&layout=compact" alt="arquimidio" /></p>
 
-💻 Sei um pouco de Python e Node, mas boa parte do meu foco, até o momento, foi voltado ao front-end (HTML, CSS, JS, REACT)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arquimidio&show_icons=true&locale=en" alt="arquimidio" /></p>
 
-🌱 Apesar do foco no front, minha meta é o Full Stack! No momento, estou aprofundando meu conhecimento em Vanilla JS e Node.
-
-📧 Caso queira entrar em contato, envie um e-mail para gabrielstoppadossantos@gmail.com
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arquimidio)](https://git.io/streak-stats)
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arquimidio&" alt="arquimidio" /></p>

@@ -1,7 +1,5 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arquimidio" alt="arquimidio" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@devgabriel_" target="blank"><img src="https://img.shields.io/twitter/follow/@devgabriel_?logo=twitter&style=for-the-badge" alt="@devgabriel_" /></a> </p>
 
 - 🌱 Atualmente, estou aprendendo **React e Express**

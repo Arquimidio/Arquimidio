@@ -11,3 +11,5 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=3F8BFF&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arquimidio1&theme=dark)](https://git.io/streak-stats)

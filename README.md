@@ -52,7 +52,9 @@
       </p>
         <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - Visualize informações sobre diversos países do mundo!</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+         <td width="50%" valign="top">
       <h3 align="center">Shortly</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">

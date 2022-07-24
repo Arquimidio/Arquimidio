@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h1 align="center">Meus projetos</h1>
+<h1 align="center">Meus projetos principais</h1>
 <table bordercolor="#66b2b2">
   
   <tr>

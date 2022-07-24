@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Meus projetos</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -35,7 +35,7 @@
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Where in the world</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
   </tr>
 </table>

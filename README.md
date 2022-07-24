@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, React</strong> - Edite seu texto em MarkDown e veja as mudanças serem apresentadas em tempo real</p>
+        <p><strong>HTML, CSS, JavaScript, React</strong> - Edite seu texto em MarkDown e veja as mudanças serem apresentadas em tempo real!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Where in the world</h3>
@@ -51,6 +51,24 @@
   </a>
       </p>
         <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - Visualize informações sobre diversos países do mundo!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Shortly</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="gif3.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Encurte seus links para compartilhá-los de maneira mais fácil!</p>
     </td>
   </tr>
 </table>

@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - Visualize informações sobre diversos países do mundo!</p>
     </td>
   </tr>
 </table>

@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
-<h1>Olá, eu sou o Gabriel! 👋🏼</h1>
+<h1 align="center">Olá, eu sou o Gabriel! 👋🏼</h1>
 
 <p align="center">
   <a href="https://portfoliodevgabriel.netlify.app/" target="_blank">

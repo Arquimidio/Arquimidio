@@ -1,5 +1,7 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
+<h1>Olá, eu sou o Gabriel! 👋🏼</h1>
+
 <p align="center">
   <a href="https://portfoliodevgabriel.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>

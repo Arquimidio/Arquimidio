@@ -42,7 +42,7 @@
         <p><strong>HTML, CSS, JavaScript, React</strong> - Edite seu texto em MarkDown e veja as mudanças serem apresentadas em tempo real!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Where in the world</h3>
+      <h3 align="center">Where in the world?</h3>
         <br />
       <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">
             <img src="gif2.gif" width="100%"  alt="Rigley 2"/>

@@ -1,10 +1,11 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
 <h1 align="center">Olá, eu sou o Gabriel! 👋🏼</h1>
-<strong>Um pouco sobre mim</strong>
-<br/>
+<p><strong>Um pouco sobre mim</strong></p>
 <p>👨🏼‍🎓 Sou formado em Direito</p>
-<p>📚 Estudo desenvolvimento web desde 2020</p>
+<p>📚 Estudo desenvolvimento web desde 2020 (e não quero mais parar rs)</p>
+<p>💪🏼 Atingi o top 1% do CodeWars em 2022</p>
+
 
 
 <p align="center">

@@ -19,16 +19,16 @@
     <td width="50%" valign="top">
       <h3 align="center">Veja Markdown</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
+        <a target="_blank" href="">
             <img src="gif1.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://arquimidio.github.io/vejaMarkdown/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -37,16 +37,16 @@
     <td width="50%" valign="top">
       <h3 align="center">Where in the world</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="">
             <img src="gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/Arquimidio/whereintheworld/tree/main" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://arquimidio.github.io/whereintheworld/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -57,16 +57,16 @@
          <td width="50%" valign="top">
       <h3 align="center">Shortly</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="">
             <img src="gif3.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/Arquimidio/url-shortener" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://ashortly.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -75,16 +75,16 @@
     <td width="50%" valign="top">
       <h3 align="center">My Library</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="">
             <img src="gif4.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/Arquimidio/my-library" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://arquimidio.github.io/my-library/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>

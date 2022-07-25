@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, React</strong> - Edite seu texto em MarkDown e veja as mudanças serem apresentadas em tempo real!</p>
+        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edite seu texto em MarkDown e veja as mudanças serem apresentadas em tempo real!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Where in the world?</h3>

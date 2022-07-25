@@ -6,10 +6,7 @@
 <p>📚 Estudo desenvolvimento web desde 2020 (e não quero mais parar rs)</p>
 <p>💪🏼 Atingi o top 1% do CodeWars em 2022</p>
 <p>🌎 Atualmente, estou cursando o Full Stack Open</p>
-
-
-
-<p align="center">
+<p>
   <a href="https://portfoliodevgabriel.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
   </a>

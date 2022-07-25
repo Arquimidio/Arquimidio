@@ -2,7 +2,9 @@
 
 <h1 align="center">Olá, eu sou o Gabriel! 👋🏼</h1>
 <strong>Um pouco sobre mim</strong>
-<p>📚Estudo desenvolvimento web desde 2020</p>
+<p>👨🏼‍🎓 Sou formado em Direito</p>
+<p>📚 Estudo desenvolvimento web desde 2020</p>
+
 
 <p align="center">
   <a href="https://portfoliodevgabriel.netlify.app/" target="_blank">

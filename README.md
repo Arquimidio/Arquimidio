@@ -1,6 +1,8 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
 <h1 align="center">Olá, eu sou o Gabriel! 👋🏼</h1>
+<h2>Um pouco sobre mim</h2>
+<p>📚Estudo desenvolvimento web desde 2020</p>
 
 <p align="center">
   <a href="https://portfoliodevgabriel.netlify.app/" target="_blank">

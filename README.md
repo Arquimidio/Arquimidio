@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
-<h1 align="center">Olá, eu sou o Gabriel! 👋🏼</h1>
+<h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
 <p><strong>Um pouco sobre mim</strong></p>
 <p>👨🏼‍🎓 Sou formado em Direito</p>
 <p>📚 Estudo Desenvolvimento Web desde 2021 (e não quero mais parar rs)</p>

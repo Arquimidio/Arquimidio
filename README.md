@@ -44,7 +44,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Where in the world</h3>
         <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">
             <img src="gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
@@ -64,7 +64,7 @@
          <td width="50%" valign="top">
       <h3 align="center">Shortly</h3>
         <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://ashortly.herokuapp.com/">
             <img src="gif3.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
@@ -82,7 +82,7 @@
     <td width="50%" valign="top">
       <h3 align="center">My Library</h3>
         <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://arquimidio.github.io/my-library/">
             <img src="gif4.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />

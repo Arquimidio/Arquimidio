@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o Gabriel! 👋🏼</h1>
 <p><strong>Um pouco sobre mim</strong></p>
 <p>👨🏼‍🎓 Sou formado em Direito</p>
-<p>📚 Estudo desenvolvimento web desde 2020 (e não quero mais parar rs)</p>
+<p>📚 Estudo desenvolvimento web desde 2021 (e não quero mais parar rs)</p>
 <p>💪🏼 Atingi o top 1% do <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>
 <p>🌎 Atualmente, estou cursando o Full Stack Open</p>
 <p>🎶 Considero que <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">essa</a>, inconstestavelmente, é a melhor playlist para codar</p>

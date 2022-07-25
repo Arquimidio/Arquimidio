@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
 <h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
-<p><strong>Um pouco sobre mim</strong></p>
+<h3>Um pouco sobre mim</h3>
 <p>👨🏼‍🎓 Sou formado em Direito</p>
 <p>📚 Estudo Desenvolvimento Web desde 2021 (e não quero mais parar rs)</p>
 <p>💪 Atingi o top 1% do <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>

@@ -8,8 +8,8 @@
 <p>🌎 Atualmente, estou cursando o Full Stack Open</p>
 <p>🎶 Considero que <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">essa</a>, inconstestavelmente, é a melhor playlist para codar!</p>
 <p>
-  <a href="https://portfoliodevgabriel.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
+<a href="https://portfoliodevgabriel.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CURRÍCULO&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=6C87FF&style=plastic&logo=linkedin&logo-color=white"/>

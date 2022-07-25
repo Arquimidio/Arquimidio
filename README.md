@@ -8,7 +8,7 @@
 <p>🌎 Atualmente, estou cursando o Full Stack Open</p>
 <p>🎶 Considero que <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">essa</a>, inconstestavelmente, é a melhor playlist para codar!</p>
 <p>
-<a href="https://pdfhost.io/edit?doc=c7dd0bf0-53ed-454d-bf46-752c3acd64c8" target="_blank">
+<a href="https://drive.google.com/file/d/1szmpb277-9Dy1q_SbyMpGrEGivB6vfPE/view" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CURRICULO&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">

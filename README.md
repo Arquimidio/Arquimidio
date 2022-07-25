@@ -5,6 +5,7 @@
 <p>👨🏼‍🎓 Sou formado em Direito</p>
 <p>📚 Estudo desenvolvimento web desde 2020 (e não quero mais parar rs)</p>
 <p>💪🏼 Atingi o top 1% do CodeWars em 2022</p>
+<p>🌎 Atualmente, estou cursando o Full Stack Open</p>
 
 
 

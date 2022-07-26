@@ -10,7 +10,7 @@
 <p>🎶 Considero que <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">essa</a>, inconstestavelmente, é a melhor playlist para codar!</p>
 
 <p>
-<a href="https://drive.google.com/file/d/1GPC0xGldsL7qLYDf3_y9mgI2bypLnwUd/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CURRICULO&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">

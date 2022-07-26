@@ -7,7 +7,7 @@
 <p>💪 Atingi o top 1% do <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>
 <p>🌎 Atualmente, estou cursando o <a href="https://fullstackopen.com/en/" target="_blank">Full Stack Open</a></p>
 <p>🔎 Sou perito na arte de pesquisar no Google</p>
-<p>🎶 Considero que <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">essa</a>, inconstestavelmente, é a melhor playlist para codar!</p>
+<p>🎶 Considero que <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">essa</a>, incontestavelmente, é a melhor playlist para codar!</p>
 
 <p>
 <a href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">

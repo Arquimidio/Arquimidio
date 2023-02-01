@@ -64,7 +64,7 @@
       <h3 align="center">Where in the world?</h3>
         <br />
       <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">
-            <img src="gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="gif2.gif" width="100%"  alt="Countries site gif"/>
         </a>
         <br />
         <p>
@@ -84,7 +84,7 @@
       <h3 align="center">Shortly</h3>
         <br />
       <a target="_blank" href="https://ashortly.herokuapp.com/">
-            <img src="gif3.gif" width="100%"  alt="Rigley 2"/>
+            <img src="gif3.gif" width="100%"  alt="Link Shortener gif"/>
         </a>
         <br />
         <p>
@@ -102,7 +102,7 @@
       <h3 align="center">My Library</h3>
         <br />
       <a target="_blank" href="https://arquimidio.github.io/my-library/">
-            <img src="gif4.gif" width="100%"  alt="Rigley 2"/>
+            <img src="gif4.gif" width="100%"  alt="Library gif"/>
         </a>
         <br />
         <p>
@@ -119,7 +119,7 @@
   </tr>
 </table>
 
-<h1 align="center">Tech Stach</h1>
+<h1 align="center">Tech Stack</h1>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>

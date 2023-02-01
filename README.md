@@ -23,26 +23,6 @@
 
 <h1 align="center">Meus principais projetos</h1>
 <table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Premium a sec</h3>
-        <br />
-        <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
-            <img src="gif5.gif" width="100%" alt="Travel App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://arquimidio.github.io/vejaMarkdown/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edite seu texto em MarkDown e veja as mudanças serem apresentadas em tempo real!</p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">Veja Markdown</h3>
         <br />

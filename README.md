@@ -22,11 +22,11 @@
   </a>
 </p>
 
-<h1 align="center">Meus principais projetos</h1>
+<h1 align="center">My main projects</h1>
 <table bordercolor="#66b2b2">
    <tr>
         <td width="100%" colspan="2" valign="top">
-      <h2 align="center">Premium a sec (em andamento)</h2>
+      <h2 align="center">Premium a sec (working on it...)</h2>
         <br />
       <a target="_blank" href="https://www.premiumasec.com.br">
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>

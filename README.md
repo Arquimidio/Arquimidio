@@ -22,11 +22,11 @@
   </a>
 </p>
 
-<h1 align="center">My main projects</h1>
+<h1>My main projects</h1>
 <table bordercolor="#66b2b2">
    <tr>
         <td width="100%" colspan="2" valign="top">
-      <h2 align="center">Premium a sec (working on it...)</h2>
+      <h2>Premium a sec (working on it...)</h2>
         <br />
       <a target="_blank" href="https://www.premiumasec.com.br">
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
@@ -43,7 +43,7 @@
     </tr>
    <tr> 
     <td width="50%" valign="top">
-      <h3 align="center">Veja Markdown</h3>
+      <h3>Veja Markdown</h3>
         <br />
         <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
             <img src="gif1.gif" width="100%" alt="Travel App"/>
@@ -61,7 +61,7 @@
         <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edit your markdown and watch your changes in real time!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Where in the world?</h3>
+      <h3>Where in the world?</h3>
         <br />
       <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">
             <img src="gif2.gif" width="100%"  alt="Countries site gif"/>
@@ -81,7 +81,7 @@
   </tr>
   <tr>
          <td width="50%" valign="top">
-      <h3 align="center">Shortly</h3>
+      <h3>Shortly</h3>
         <br />
       <a target="_blank" href="https://ashortly.herokuapp.com/">
             <img src="gif3.gif" width="100%"  alt="Link Shortener gif"/>
@@ -99,7 +99,7 @@
         <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Shorten your links to be able to share them easily!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">My Library</h3>
+      <h3>My Library</h3>
         <br />
       <a target="_blank" href="https://arquimidio.github.io/my-library/">
             <img src="gif4.gif" width="100%"  alt="Library gif"/>
@@ -119,7 +119,7 @@
   </tr>
 </table>
 
-<h1 align="center">Tech Stack</h1>
+<h1>Tech Stack</h1>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>

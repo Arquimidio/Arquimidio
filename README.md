@@ -1,13 +1,13 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
-<h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
-<h3>Um pouco sobre mim</h3>
-<p>👨🏼‍🎓 Sou formado em Direito</p>
-<p>📚 Estudo Desenvolvimento Web desde 2021 (e não quero mais parar rs)</p>
-<p>💪 Atingi o top 1% do <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>
-<p>🌎 Atualmente, estou cursando Engenharia de Software</p>
-<p>🔎 Sou perito na arte de pesquisar no Google</p>
-<p>🎶 Considero que <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">essa</a>, incontestavelmente, é a melhor playlist para codar!</p>
+<h1 align="center">Hi, i'm Gabriel, a Web Developer from Brazil! 👋</h1>
+<h3>A little about me</h3>
+<p>👨🏼‍🎓 I have a bachelors of law degree</p>
+<p>📚 I've been studying Web Development since 2021 (and i don't want to stop anymore lol)</p>
+<p>💪 I've reached top 1% at <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> during 2022, with more than 1000 solved code challenges</p>
+<p>🌎 I'm currently studying for a Software Engineer degree while doing my projects/p>
+<p>🔎 I'm an expert at searching on Google</p>
+<p>🎶 <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">This</a> is, no doubt, the best playlist to code!</p>
 
 <p>
 <a href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Node, Express, EJS </strong> - Site oficial das Lavanderias Premium a Sec!</p>
+        <p><strong>HTML, CSS, JavaScript, Node, Express, EJS </strong> - Official Premium a sec Laundry Website!</p>
     </td>
     </tr>
    <tr> 
@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edite seu texto em MarkDown e veja as mudanças serem apresentadas em tempo real!</p>
+        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edit your markdown and watch your changes in real time!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Where in the world?</h3>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - Visualize informações sobre diversos países do mundo!</p>
+        <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - Search for information about lots of countries in the world!</p>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Encurte seus links para compartilhá-los de maneira mais fácil!</p>
+        <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Shorten your links to be able to share them easily!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">My Library</h3>
@@ -113,12 +113,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Registre o progresso de suas leituras facilmente e visualize-o em uma bela interface!</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Register your readings and see your progress with a beautiful interface!</p>
     </td>
   </tr>
 </table>
 
-<h1 align="center">Tecnologias conhecidas</h1>
+<h1 align="center">Tech Stach</h1>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>

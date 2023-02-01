@@ -48,7 +48,7 @@
             <img src="gif1.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
-        <p align="center">
+        <p>
           
   <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&f&style=plastic&logo=github&logo-color=white"/>

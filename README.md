@@ -32,6 +32,7 @@
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
         </a>
         <br />
+        <br />
         <p>
           
   <a href="https://www.premiumasec.com.br" target="_blank">
@@ -48,6 +49,7 @@
         <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
             <img src="gif1.gif" width="100%" alt="Travel App"/>
         </a>
+        <br />
         <br />
         <p>
           
@@ -66,6 +68,7 @@
       <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">
             <img src="gif2.gif" width="100%"  alt="Countries site gif"/>
         </a>
+        <br />
         <br />
         <p>
           
@@ -87,6 +90,7 @@
             <img src="gif3.gif" width="100%"  alt="Link Shortener gif"/>
         </a>
         <br />
+        <br />
         <p>
           
   <a href="https://github.com/Arquimidio/url-shortener" target="_blank">
@@ -104,6 +108,7 @@
       <a target="_blank" href="https://arquimidio.github.io/my-library/">
             <img src="gif4.gif" width="100%"  alt="Library gif"/>
         </a>
+        <br />
         <br />
         <p>
           

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, i'm Gabriel! 👋</h1>
 <h3>A little about me</h3>
-<p>I'm a Web Developer from Brazil</p>
+<p>🧑‍💻 I'm a Web Developer from Brazil</p>
 <p>👨🏼‍🎓 I have a bachelors of law degree</p>
 <p>📚 I've been studying Web Development since 2021 (and i don't want to stop anymore lol)</p>
 <p>💪 I've reached top 1% at <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> during 2022, with more than 1000 solved code challenges</p>

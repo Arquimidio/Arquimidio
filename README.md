@@ -66,7 +66,7 @@
             <img src="gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
-        <p align="center">
+        <p>
           
   <a href="https://github.com/Arquimidio/whereintheworld/tree/main" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
@@ -86,7 +86,7 @@
             <img src="gif3.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
-        <p align="center">
+        <p>
           
   <a href="https://github.com/Arquimidio/url-shortener" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
@@ -104,7 +104,7 @@
             <img src="gif4.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
-        <p align="center">
+        <p>
           
   <a href="https://github.com/Arquimidio/my-library" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>

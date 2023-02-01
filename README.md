@@ -23,6 +23,8 @@
 
 <h1 align="center">Meus principais projetos</h1>
 <table bordercolor="#66b2b2">
+    
+   <tr> 
     <td width="50%" valign="top">
       <h3 align="center">Veja Markdown</h3>
         <br />

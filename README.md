@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
-<h1 align="center">Hi, i'm Gabriel! 👋</h1>
+<h1>Hi, i'm Gabriel! 👋</h1>
 <h3>A little about me</h3>
 <p>🧑‍💻 I'm a Web Developer from Brazil</p>
 <p>🎓 I have a bachelors of law degree</p>

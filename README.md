@@ -24,7 +24,7 @@
 <h1 align="center">Meus principais projetos</h1>
 <table bordercolor="#66b2b2">
    <tr>
-        <td valign="top">
+        <td width="100%" colspan="2" valign="top">
       <h3 align="center">Where in the world?</h3>
         <br />
       <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">

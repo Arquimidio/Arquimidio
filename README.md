@@ -31,7 +31,7 @@
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
         </a>
         <br />
-        <p align="center">
+        <p>
           
   <a href="https://www.premiumasec.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>

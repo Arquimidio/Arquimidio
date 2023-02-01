@@ -26,7 +26,7 @@
 <table bordercolor="#66b2b2">
    <tr>
         <td width="100%" colspan="2" valign="top">
-      <h2>Premium a sec (working on it...)</h2>
+      <h3>Premium a sec (working on it...)</h3>
         <br />
       <a target="_blank" href="https://www.premiumasec.com.br">
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>

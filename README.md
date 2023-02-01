@@ -25,7 +25,7 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="100%" valign="top">
+    <td valign="top">
       <h3 align="center">Premium a sec</h3>
         <br />
         <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">

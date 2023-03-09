@@ -3,10 +3,10 @@
 <h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
 <h3>Um pouco sobre mim <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-EN.md">(View in english)</a></h3>
 <p>🧑‍💻 Eu sou Desenvolvedor Web</p>
+<p>🌎 Atualmente estou fazendo faculdade de Engenharia de Software enquanto cuido dos meus projetos pessoais</p>
 <p>🎓 Sou formado em Direito</p>
 <p>📚 Venho estudando Desenvolvimento Web desde 2021 (e não quero mais parar rsrs)</p>
 <p>💪 Atingi o top 1% no <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>
-<p>🌎 Atualmente estou fazendo faculdade de Engenharia de Software enquanto cuido dos meus projetos pessoais</p>
 <p>🔎 Sou especialista em pesquisar no Google</p>
 <p>🎶 <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">Essa</a> é, sem dúvidas, a melhor playlist para codar!</p>
 

@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
 <h3>Um pouco sobre mim <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-EN.md">(View in english)</a></h3>
-<p>🧑‍💻 Eu sou um Desenvolvedor Web brasileiro</p>
+<p>🧑‍💻 Eu sou Desenvolvedor Web</p>
 <p>🎓 Sou formado em Direito</p>
 <p>📚 Venho estudando Desenvolvimento Web desde 2021 (e não quero mais parar rsrs)</p>
 <p>💪 Atingi o top 1% no <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>

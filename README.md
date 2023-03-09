@@ -12,7 +12,7 @@
 
 <p>
 <a href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CURRÍCULO&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CURRICULO&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=6C87FF&style=plastic&logo=linkedin&logo-color=white"/>

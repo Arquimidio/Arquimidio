@@ -12,7 +12,7 @@
 
 <p>
 <a href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CURRICULUM&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CURRÍCULO&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=6C87FF&style=plastic&logo=linkedin&logo-color=white"/>
@@ -22,11 +22,11 @@
   </a>
 </p>
 
-<h1 align="center">My main projects</h1>
+<h1 align="center">Meus Principais Projetos</h1>
 <table bordercolor="#66b2b2">
    <tr>
         <td width="100%" colspan="2" valign="top">
-      <h2 align="center">Premium a sec (working on it...)</h2>
+      <h2 align="center">Premium a sec (trabalhando nesse...)</h2>
         <br />
       <a target="_blank" href="https://www.premiumasec.com.br">
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Node, Express, EJS </strong> - Official Premium a sec Laundry Website!</p>
+        <p><strong>HTML, CSS, JavaScript, Node, Express, EJS </strong> - Site Oficial das Lavanderias Premium a Sec!</p>
     </td>
     </tr>
    <tr> 
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edit your markdown and watch your changes in real time!</p>
+        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edite seu texto com markdown e veja as formatações aplicadas instantaneamente!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Where in the world?</h3>
@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - Search for information about lots of countries in the world!</p>
+        <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - Busque informações sobre diversos países do mundo!</p>
     </td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Shorten your links to be able to share them easily!</p>
+        <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Encurte seus links para poder compartilhá-los facilmente!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">My Library</h3>
@@ -119,7 +119,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Register your readings and see your progress with a beautiful interface!</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Registre suas leituras e veja seu progresso com uma bela interface!</p>
     </td>
   </tr>
 </table>

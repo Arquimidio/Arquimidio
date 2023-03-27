@@ -8,7 +8,6 @@
 <p>📚 Venho estudando Desenvolvimento Web desde 2021 (e não quero mais parar rsrs)</p>
 <p>💪 Atingi o top 1% no <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>
 <p>🔎 Sou especialista em pesquisar no Google</p>
-<p>🎶 <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">Essa</a> é, sem dúvidas, a melhor playlist para codar!</p>
 
 <p>
 <a href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">

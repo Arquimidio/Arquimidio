@@ -6,7 +6,7 @@
 <p>🌎 I'm currently studying for a Software Engineer degree while doing my projects</p>
 <p>🎓 I have a Bachelor of Laws degree</p>
 <p>📚 I've been studying Web Development since 2021 (and i don't want to stop anymore lol)</p>
-<p>💪 I've reached top 1% at <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> during 2022, with more than 1000 solved code challenges</p>
+<p>💪 I've reached top 1% at <a href="https://www.codewars.com/users/Arqui_" target="_blank">CodeWars</a> during 2022, with more than 1000 solved code challenges</p>
 <p>🔎 I'm an expert at searching on Google</p>
 <p>🎶 <a href="https://www.youtube.com/watch?v=XBVWALD96zE&t=961s">This</a> is, no doubt, the best playlist to code!</p>
 

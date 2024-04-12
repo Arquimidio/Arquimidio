@@ -6,7 +6,7 @@
 <p>🌎 Atualmente estou fazendo faculdade de Engenharia de Software enquanto cuido dos meus projetos pessoais</p>
 <p>🎓 Sou formado em Direito</p>
 <p>📚 Venho estudando Desenvolvimento Web desde 2021 (e não quero mais parar rsrs)</p>
-<p>💪 Atingi o top 1% no <a href="https://www.codewars.com/users/Monkious" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>
+<p>💪 Atingi o top 1% no <a href="https://www.codewars.com/users/Arqui_" target="_blank">CodeWars</a> em 2022, com mais de 1000 desafios de código resolvidos</p>
 <p>🔎 Sou especialista em pesquisar no Google</p>
 
 <p>

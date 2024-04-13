@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
 <h3>Um pouco sobre mim <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-EN.md">(View in english)</a></h3>
-<p>🧑‍💻 Eu sou Desenvolvedor Web</p>
+<p>🧑‍💻 Eu sou Desenvolvedor Full Stack</p>
 <p>🌎 Atualmente estou fazendo faculdade de Engenharia de Software enquanto cuido dos meus projetos pessoais</p>
 <p>🎓 Sou formado em Direito</p>
 <p>📚 Venho estudando Desenvolvimento Web desde 2021 (e não quero mais parar rsrs)</p>

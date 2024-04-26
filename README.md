@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/z7xEJE5.png" width="100%">
 
 <h1 align="center">Hi, i'm Gabriel! 👋</h1>
-<h3>A little about me <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README.md">(Ver em português)</a></h3>
+<h3>A little about me <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-PT.md">(Ver em português)</a></h3>
 <p>🧑‍💻 I'm a Web Developer from Brazil</p>
 <p>🌎 I'm currently studying for a Software Engineer degree while doing my projects</p>
 <p>🎓 I have a Bachelor of Laws degree</p>

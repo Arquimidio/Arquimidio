@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, i'm Gabriel! 👋</h1>
 <h3>A little about me <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-PT.md">(Ver em português)</a></h3>
-<p>🧑‍💻 I'm a Web Developer from Brazil</p>
+<p>🧑‍💻 I'm a Full Stack Developer from Brazil</p>
 <p>🌎 I'm currently studying for a Software Engineer degree while doing my projects</p>
 <p>🎓 I have a Bachelor of Laws degree</p>
 <p>📚 I've been studying Web Development since 2021 (and i don't want to stop anymore lol)</p>

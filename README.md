@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/RZVOXgi.png" width="100%">
+<img src="https://i.imgur.com/VVR1BtF.png" width="100%">
 
 <h1>Hi, i'm Gabriel! 👋</h1>
 <h3>A little about me <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-PT.md">(Ver em português)</a></h3>

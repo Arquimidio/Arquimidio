@@ -31,12 +31,11 @@
         <td width="100%" colspan="2" valign="top">
            <h3>Premium a sec</h3>
         <p>
-          
-  <a href="https://www.premiumasec.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
         <p><strong>HTML, CSS, JavaScript, Node, Express, EJS </strong> - Official Premium a sec Laundry Website!</p>
+          <a href="https://www.premiumasec.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
     </td>
     </tr>
    <tr> 

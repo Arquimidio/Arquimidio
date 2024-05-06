@@ -25,6 +25,9 @@
 <h1>My main projects</h1>
 <table bordercolor="#66b2b2">
    <tr>
+          <a target="_blank" href="https://www.premiumasec.com.br">
+            <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
+        </a>
         <td width="100%" colspan="2" valign="top">
            <h3>Premium a sec</h3>
         <p>
@@ -34,9 +37,6 @@
   </a>
       </p>
         <p><strong>HTML, CSS, JavaScript, Node, Express, EJS </strong> - Official Premium a sec Laundry Website!</p>
-          <a target="_blank" href="https://www.premiumasec.com.br">
-            <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
-        </a>
     </td>
     </tr>
    <tr> 

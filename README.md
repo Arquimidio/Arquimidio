@@ -29,7 +29,7 @@
       <a target="_blank" href="https://www.premiumasec.com.br">
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
         </a>
-           <h2>Premium a sec</h2>
+           <h3>Premium a sec</h3>
         <p>
           
   <a href="https://www.premiumasec.com.br" target="_blank">
@@ -73,7 +73,6 @@
   </tr>
   <tr>
          <td width="50%" valign="top">
-        <br />
       <a target="_blank" href="https://ashortly.herokuapp.com/">
             <img src="gif3.gif" width="100%"  alt="Link Shortener gif"/>
         </a>

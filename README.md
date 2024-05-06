@@ -76,13 +76,11 @@
   </tr>
   <tr>
          <td width="50%" valign="top">
-      <h3 align="center">Shortly</h3>
         <br />
       <a target="_blank" href="https://ashortly.herokuapp.com/">
             <img src="gif3.gif" width="100%"  alt="Link Shortener gif"/>
         </a>
-        <br />
-        <br />
+        <h3 align="center">Shortly</h3>
         <p>
           
   <a href="https://github.com/Arquimidio/url-shortener" target="_blank">

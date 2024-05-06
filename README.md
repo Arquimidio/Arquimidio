@@ -26,13 +26,10 @@
 <table bordercolor="#66b2b2">
    <tr>
         <td width="100%" colspan="2" valign="top">
-      <h2>Premium a sec</h2>
-        <br />
       <a target="_blank" href="https://www.premiumasec.com.br">
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
         </a>
-        <br />
-        <br />
+           <h2>Premium a sec</h2>
         <p>
           
   <a href="https://www.premiumasec.com.br" target="_blank">
@@ -44,13 +41,10 @@
     </tr>
    <tr> 
     <td width="50%" valign="top">
-      <h3>Veja Markdown</h3>
-        <br />
         <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
             <img src="gif1.gif" width="100%" alt="Travel App"/>
         </a>
-        <br />
-        <br />
+        <h3>Veja Markdown</h3>
         <p>
           
   <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
@@ -67,8 +61,6 @@
       <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">
             <img src="gif2.gif" width="100%"  alt="Countries site gif"/>
         </a>
-        <br />
-        <br />
            <h3>Where in the world?</h3>
         <p>
           

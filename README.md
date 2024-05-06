@@ -79,17 +79,16 @@
       <a target="_blank" href="https://ashortly.herokuapp.com/">
             <img src="gif3.gif" width="100%"  alt="Link Shortener gif"/>
         </a>
-        <h3 align="center">Shortly</h3>
+        <h3>Shortly</h3>
         <p>
-          
-  <a href="https://github.com/Arquimidio/url-shortener" target="_blank">
+      </p>
+        <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Shorten your links to be able to share them easily!</p>
+      <a href="https://github.com/Arquimidio/url-shortener" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://ashortly.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Shorten your links to be able to share them easily!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">My Library</h3>

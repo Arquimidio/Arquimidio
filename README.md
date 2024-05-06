@@ -56,7 +56,6 @@
   </a>
     </td>
     <td width="50%" valign="top">
-        <br />
       <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">
             <img src="gif2.gif" width="100%"  alt="Countries site gif"/>
         </a>
@@ -90,15 +89,13 @@
   </a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">My Library</h3>
-        <br />
       <a target="_blank" href="https://arquimidio.github.io/my-library/">
             <img src="gif4.gif" width="100%"  alt="Library gif"/>
         </a>
-        <br />
-        <br />
-        <p>
-          
+
+<h3>My Library</h3  
+<p><strong>HTML, CSS, JavaScript</strong> - Register your readings and see your progress with a beautiful interface!</p>
+<p>
   <a href="https://github.com/Arquimidio/my-library" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -106,7 +103,6 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Register your readings and see your progress with a beautiful interface!</p>
     </td>
   </tr>
 </table>

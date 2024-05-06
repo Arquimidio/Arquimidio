@@ -26,7 +26,6 @@
 <table bordercolor="#66b2b2">
    <tr>
         <td width="100%" colspan="2" valign="top">
-    
            <h3>Premium a sec</h3>
         <p>
           

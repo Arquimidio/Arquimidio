@@ -46,15 +46,14 @@
         </a>
         <h3>Veja Markdown</h3>
         <p>
-          
-  <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
+      </p>
+        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edit your markdown and watch your changes in real time!</p>
+          <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://arquimidio.github.io/vejaMarkdown/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edit your markdown and watch your changes in real time!</p>
     </td>
     <td width="50%" valign="top">
         <br />

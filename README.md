@@ -22,11 +22,11 @@
   </a>
 </p>
 
-<h1 align="center">My main projects</h1>
+<h1>My main projects</h1>
 <table bordercolor="#66b2b2">
    <tr>
         <td width="100%" colspan="2" valign="top">
-      <h2 align="center">Premium a sec</h2>
+      <h2>Premium a sec</h2>
         <br />
       <a target="_blank" href="https://www.premiumasec.com.br">
             <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
@@ -44,7 +44,7 @@
     </tr>
    <tr> 
     <td width="50%" valign="top">
-      <h3 align="center">Veja Markdown</h3>
+      <h3>Veja Markdown</h3>
         <br />
         <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
             <img src="gif1.gif" width="100%" alt="Travel App"/>

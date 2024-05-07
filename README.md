@@ -22,6 +22,8 @@
   </a>
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pze3klmkxpoyun5h4wksmsietm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31pze3klmkxpoyun5h4wksmsietm&redirect=true)
+
 <h1>My main projects</h1>
 <table bordercolor="#66b2b2">
    <tr>

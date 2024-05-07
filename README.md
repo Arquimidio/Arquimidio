@@ -45,7 +45,7 @@
       <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
           <img src="entropy.PNG" width="100%" alt="Travel App"/>
       </a>
-      <h3>Veja Markdown</h3>
+      <h3>Entropy</h3>
       <p>
     </p>
       <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edit your markdown and watch your changes in real time!</p>
@@ -60,7 +60,7 @@
    <tr> 
     <td width="50%" valign="top">
         <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
-            <img src="gif1.gif" width="100%" alt="Travel App"/>
+            <img src="veja-markdown.PNG" width="100%" alt="Travel App"/>
         </a>
         <h3>Veja Markdown</h3>
         <p>

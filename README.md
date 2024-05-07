@@ -31,7 +31,7 @@
    <tr>
         <td width="50%" valign="top">
             <a target="_blank" href="https://www.premiumasec.com.br">
-              <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
+              <img src="premium.PNG" width="100%"  alt="Premium a sec"/>
           </a>
            <h3>Premium a sec</h3>
         <p>

@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=CURRICULUM&color=3F8BFF&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=6C87FF&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/devgabriel_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=3F8BFF&style=plastic&logo=twitter&logo-color=white"/>

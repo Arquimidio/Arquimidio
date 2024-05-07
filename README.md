@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/H9N6mDy.png" width="100%">
-
 <h1>Hi, i'm Gabriel! 👋</h1>
 <h3>A little about me <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-PT.md">(Ver em português)</a></h3>
 <p>🧑‍💻 I'm a Full Stack Developer from Brazil</p>

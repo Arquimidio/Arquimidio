@@ -42,14 +42,14 @@
   </a>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
+      <a target="_blank" href="www.gabrielstoppa.com">
           <img src="d-entropy.png" width="100%" alt="Travel App"/>
       </a>
       <h3>Entropy</h3>
       <p>
     </p>
       <p><strong>Astro</strong> - This is my blog and portfolio page where i post my articles and projects!</p>
-        <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
+        <a href="www.gabrielstoppa.com" target="_blank">
   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&f&style=plastic&logo=github&logo-color=white"/>
 </a>  
 <a href="https://arquimidio.github.io/vejaMarkdown/" target="_blank">

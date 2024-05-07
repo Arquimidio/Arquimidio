@@ -75,7 +75,7 @@
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://arquimidio.github.io/whereintheworld/">
-            <img src="gif2.gif" width="100%"  alt="Countries site gif"/>
+            <img src="wytw.png" width="100%"  alt="Countries site gif"/>
         </a>
            <h3>Where in the world?</h3>
         <p>

@@ -29,10 +29,10 @@
 <h1>My main projects</h1>
 <table bordercolor="#66b2b2">
    <tr>
-          <a target="_blank" href="https://www.premiumasec.com.br">
-            <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
-        </a>
-        <td width="100%" colspan="2" valign="top">
+        <td width="50%" valign="top">
+            <a target="_blank" href="https://www.premiumasec.com.br">
+              <img src="gif5.gif" width="100%"  alt="Premium a sec"/>
+          </a>
            <h3>Premium a sec</h3>
         <p>
       </p>
@@ -41,6 +41,21 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
     </td>
+    <td width="50%" valign="top">
+      <a target="_blank" href="https://arquimidio.github.io/vejaMarkdown/">
+          <img src="entropy.PNG" width="100%" alt="Travel App"/>
+      </a>
+      <h3>Veja Markdown</h3>
+      <p>
+    </p>
+      <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edit your markdown and watch your changes in real time!</p>
+        <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&f&style=plastic&logo=github&logo-color=white"/>
+</a>  
+<a href="https://arquimidio.github.io/vejaMarkdown/" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+  </td>
     </tr>
    <tr> 
     <td width="50%" valign="top">
@@ -95,7 +110,7 @@
             <img src="gif4.gif" width="100%"  alt="Library gif"/>
         </a>
 
-<h3>My Library</h3  
+<h3>My Library</h3>  
 <p><strong>HTML, CSS, JavaScript</strong> - Register your readings and see your progress with a beautiful interface!</p>
 <p>
   <a href="https://github.com/Arquimidio/my-library" target="_blank">

@@ -88,37 +88,4 @@
   </a>
     </td>
   </tr>
-  <tr>
-         <td width="50%" valign="top">
-      <a target="_blank" href="https://ashortly.herokuapp.com/">
-            <img src="gif3.gif" width="100%"  alt="Link Shortener gif"/>
-        </a>
-        <h3>Shortly</h3>
-        <p>
-      </p>
-        <p><strong>HTML, CSS, JavaScript, NodeJS, Express, Mongoose</strong> - Shorten your links to be able to share them easily!</p>
-      <a href="https://github.com/Arquimidio/url-shortener" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://ashortly.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-    </td>
-    <td width="50%" valign="top">
-      <a target="_blank" href="https://arquimidio.github.io/my-library/">
-            <img src="gif4.gif" width="100%"  alt="Library gif"/>
-        </a>
-
-<h3>My Library</h3>  
-<p><strong>HTML, CSS, JavaScript</strong> - Register your readings and see your progress with a beautiful interface!</p>
-<p>
-  <a href="https://github.com/Arquimidio/my-library" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://arquimidio.github.io/my-library/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-    </td>
-  </tr>
 </table>

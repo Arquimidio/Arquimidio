@@ -104,6 +104,3 @@
     </td>
   </tr>
 </table>
-
-<h1>Tech Stack</h1>
-[!(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)

@@ -90,3 +90,4 @@
 </table>
 
 <h2>My Tech Stack</h2>
+<img src="https://skillicons.dev/icons?i=ts,react,angular,tailwind,nodejs,nestjs,postgres,redis&perline=4" alt="Tech Stack" /> 

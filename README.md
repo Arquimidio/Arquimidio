@@ -1,6 +1,7 @@
 <h1>Hi, i'm Gabriel! 👋</h1>
 <h3>A little about me <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-PT.md">(Ver em português)</a></h3>
 <div>
+    <img align="right" src="https://skillicons.dev/icons?i=ts,react,angular,tailwind,nodejs,nestjs,postgres,redis&perline=4" alt="Tech Stack" /> 
     <ul align="left">
         <li>I'm a Full Stack Developer from Brazil</li>
         <li>I'm currently studying for a Software Engineer degree while doing my projects</li>
@@ -88,6 +89,3 @@
     </td>
   </tr>
 </table>
-
-<h2>My Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=ts,react,angular,tailwind,nodejs,nestjs,postgres,redis&perline=4" alt="Tech Stack" /> 

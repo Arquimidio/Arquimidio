@@ -88,3 +88,5 @@
     </td>
   </tr>
 </table>
+
+<h2>My Tech Stack</h2>

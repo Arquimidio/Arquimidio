@@ -50,7 +50,7 @@
         <a href="https://www.gabrielstoppa.com" target="_blank">
   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&f&style=plastic&logo=github&logo-color=white"/>
 </a>  
-<a href="https://arquimidio.github.io/vejaMarkdown/" target="_blank">
+<a href="https://www.gabrielstoppa.com" target="_blank">
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white"/>
 </a>
   </td>

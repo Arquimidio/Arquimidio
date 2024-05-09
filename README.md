@@ -64,7 +64,7 @@
         <h3>Veja Markdown</h3>
         <p>
       </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React</strong> - Edit your markdown and watch your changes in real time!</p>
+        <p><strong>HTML, CSS, JavaScript, React</strong> - Edit your markdown and watch your changes in real time!</p>
           <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&f&style=plastic&logo=github&logo-color=white"/>
   </a>  
@@ -79,7 +79,7 @@
            <h3>Where in the world?</h3>
         <p>
       </p>
-        <p><strong>HTML, CSS, JavaScript, JSX, React e React Router</strong> - Search for information about lots of countries in the world!</p>
+        <p><strong>HTML, CSS, JavaScript, React e React Router</strong> - Search for information about lots of countries in the world!</p>
           <a href="https://github.com/Arquimidio/whereintheworld/tree/main" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6C87FF&style=plastic&logo=github&logo-color=white"/>
   </a>

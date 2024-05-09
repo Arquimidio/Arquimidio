@@ -1,5 +1,5 @@
 <h1>Hi, i'm Gabriel! 👋</h1>
-<h3>A little about me <a href="https://github.com/Arquimidio/Arquimidio/blob/main/README-PT.md">(Ver em português)</a></h3>
+<h3>A little about me</h3>
 <div>
     <img align="right" src="https://skillicons.dev/icons?i=ts,react,angular,tailwind,nodejs,nestjs,postgres,redis&perline=4" alt="Tech Stack" /> 
     <ul align="left">

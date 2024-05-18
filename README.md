@@ -22,9 +22,9 @@
   <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="undefined">
-        <img src="https://github.com/Arquimidio/Arquimidio/raw/main/remembrall-dark.PNG" width="100%"  alt="Remembrall" />
+        <img src="https://github.com/Arquimidio/Arquimidio/raw/main/remembrall-dark.PNG" width="100%"  alt="Remembrall (building)" />
       </a>
-      <h3>Remembrall</h3>
+      <h3>Remembrall (building)</h3>
       <p>
       </p>
       <p><strong>HTML, CSS, JavaScript, React, React Router</strong> - Your flashcard app to study with spaced repetition and remember everything!</p>

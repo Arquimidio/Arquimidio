@@ -74,7 +74,7 @@
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://arquimidio.github.io/remembrall.PNG/">
-            <img src="remembrall.PNG" width="100%"  alt="Countries site gif"/>
+            <img src="remembrall-dark.PNG" width="100%"  alt="Countries site gif"/>
         </a>
            <h3>Where in the world?</h3>
         <p>

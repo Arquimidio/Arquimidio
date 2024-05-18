@@ -27,7 +27,7 @@
       <h3>Remembrall (building)</h3>
       <p>
       </p>
-      <p><strong>HTML, CSS, JavaScript, React, React Router</strong> - Your flashcard app to study with spaced repetition and remember everything!</p>
+      <p><strong>React, NestJS, TypeORM</strong> - Your flashcard app to study with spaced repetition and remember everything!</p>
       <a href="https://raw.githubusercontent.com/Arquimidio/Arquimidio/main/remembrall-dark.PNG" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=3F8BFF&style=plastic&logo=wordpress&logo-color=white" />
       </a>

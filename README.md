@@ -7,13 +7,13 @@
   </ul>
 </div>
 <p>
-  <a href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">
+  <a style="text-decoration: none" href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Curriculum-green?style=for-the-badge&color=29374d&logo=astro&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">
+  <a style="text-decoration: none" href="https://www.linkedin.com/in/gstoppa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&color=29374d&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/devgabriel_" target="_blank">
+  <a style="text-decoration: none" href="https://twitter.com/devgabriel_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&color=29374d&logo=x" />
   </a>
 </p>

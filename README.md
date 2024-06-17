@@ -8,13 +8,13 @@
 </div>
 <p>
   <a href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Curriculum-green?style=for-the-badge&color=005da8&logo=react" />
+    <img src="https://img.shields.io/badge/Curriculum-green?style=for-the-badge&color=062036&logo=react" />
   </a>
   <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&color=005da8&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&color=062036&logo=linkedin" />
   </a>
   <a href="https://twitter.com/devgabriel_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&color=005da8&logo=x" />
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&color=062036&logo=x" />
   </a>
 </p>
 <h1>My main projects</h1>
@@ -29,7 +29,7 @@
       </p>
       <p><strong>React, NestJS, TypeORM</strong> - Your flashcard app to study with spaced repetition and remember everything!</p>
       <a href="https://raw.githubusercontent.com/Arquimidio/Arquimidio/main/remembrall-dark.PNG" target="_blank">
-        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=005da8" />
+        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=062036" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -41,7 +41,7 @@
       </p>
       <p><strong>Astro</strong> - This is my blog and portfolio page where i post my articles and projects!</p>
       <a href="https://www.gabrielstoppa.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=005da8" />
+        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=062036" />
       </a>
       <a href="https://github.com/Arquimidio/entropy" target="_blank">
         <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github" />
@@ -58,7 +58,7 @@
       </p>
       <p><strong>HTML, CSS, Javascript, Node, Express, EJS</strong> - Official Premium a sec Laundry Website!</p>
       <a href="https://www.premiumasec.com.br/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=005da8" />
+        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=062036" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -70,7 +70,7 @@
       </p>
       <p><strong>HTML, CSS, JavaScript, React</strong> - Edit your markdown and watch your changes in real time!</p>
       <a href="https://arquimidio.github.io/vejaMarkdown/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=005da8" />
+        <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=062036" />
       </a>
       <a href="https://github.com/Arquimidio/vejaMarkdown" target="_blank">
         <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github" />

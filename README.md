@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/Curriculum-green?style=for-the-badge&color=005da8&logo=react" />
   </a>
   <a href="https://www.linkedin.com/in/gstoppa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=6C87FF&style=plastic&logo=linkedin&logo-color=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&color=005da8&logo=linkedin" />
   </a>
   <a href="https://twitter.com/devgabriel_" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=3F8BFF&style=plastic&logo=twitter&logo-color=white" />
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&color=005da8&logo=twitter" />
   </a>
 </p>
 <h1>My main projects</h1>

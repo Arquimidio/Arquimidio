@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&color=005da8&logo=linkedin" />
   </a>
   <a href="https://twitter.com/devgabriel_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&color=005da8&logo=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&color=005da8&logo=x" />
   </a>
 </p>
 <h1>My main projects</h1>

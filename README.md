@@ -3,7 +3,7 @@
 <div>
   <img align="right" src="https://skillicons.dev/icons?i=ts,react,angular,tailwind,nodejs,nestjs,postgres,redis&perline=4" alt="Tech Stack"  />
   <ul align="left">
-    <li>I'm a Full Stack Developer from Brazil</li><li>I'm currently working at a company English company and studying for a Software Engineer degree</li><li>I have a Bachelor of Laws degree</li><li>I've been studying Web Development since 2021 (and i don't want to stop anymore lol)</li><li>I've reached top 1% at <a href="https://www.codewars.com/users/Arqui_" target="_blank">CodeWars</a> during 2022, with more than 1000 solved code challenges</li><li>I'm an expert at searching on Google</li>
+    <li>I'm a Full Stack Developer from Brazil</li><li>I'm currently working at a company English and studying for a Software Engineer degree</li><li>I have a Bachelor of Laws degree</li><li>I've been studying Web Development since 2021 (and i don't want to stop anymore lol)</li><li>I've reached top 1% at <a href="https://www.codewars.com/users/Arqui_" target="_blank">CodeWars</a> during 2022, with more than 1000 solved code challenges</li><li>I'm an expert at searching on Google</li>
   </ul>
 </div>
 <p>

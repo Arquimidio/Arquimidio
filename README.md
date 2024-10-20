@@ -8,7 +8,7 @@
 </div>
 <p>
   <a style="text-decoration: none" href="https://drive.google.com/file/d/1XRrj7WUsnficpyf4gyrMtPmvsBxC8Bvw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Curriculum-green?style=for-the-badge&color=29374d&logo=astro&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&color=29374d&logo=astro&logoColor=white" />
   </a>
   <a style="text-decoration: none" href="https://www.linkedin.com/in/gstoppa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&color=29374d&logo=linkedin" />

@@ -50,14 +50,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a target="_blank" href="https://www.premiumasec.com.br/">
+      <a target="_blank" href="https://www.ashortly.com/">
         <img src="https://github.com/Arquimidio/Arquimidio/raw/main/premium.PNG" width="100%"  alt="Premium a sec" />
       </a>
       <h3>Premium a sec</h3>
       <p>
       </p>
-      <p><strong>HTML, CSS, Javascript, Node, Express, EJS</strong> - Official Premium a sec Laundry Website!</p>
-      <a href="https://www.premiumasec.com.br/" target="_blank">
+      <p><strong>HTML, CSS, Javascript, Node, Express</strong> - Ashortly!</p>
+      <a href="https://www.ashortly.com/" target="_blank">
         <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=29374d" />
       </a>
     </td>

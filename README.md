@@ -53,7 +53,7 @@
       <a target="_blank" href="https://www.ashortly.com/">
         <img src="https://github.com/Arquimidio/Arquimidio/raw/main/shortly.PNG" width="100%"  alt="shortly" />
       </a>
-      <h3>Premium a sec</h3>
+      <h3>Ashortly</h3>
       <p>
       </p>
       <p><strong>HTML, CSS, Javascript, Node, Express</strong> - Ashortly!</p>

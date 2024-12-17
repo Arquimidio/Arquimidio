@@ -56,7 +56,7 @@
       <h3>Ashortly</h3>
       <p>
       </p>
-      <p><strong>HTML, CSS, Javascript, Node, Express</strong> - Ashortly!</p>
+      <p><strong>HTML, CSS, Javascript, Node, Express</strong> - Shorten your links so they are easily shareable!</p>
       <a href="https://www.ashortly.com/" target="_blank">
         <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&color=29374d" />
       </a>

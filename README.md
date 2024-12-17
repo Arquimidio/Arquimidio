@@ -51,7 +51,7 @@
   <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="https://www.ashortly.com/">
-        <img src="https://github.com/Arquimidio/Arquimidio/raw/main/premium.PNG" width="100%"  alt="Premium a sec" />
+        <img src="https://github.com/Arquimidio/Arquimidio/raw/main/shortly.PNG" width="100%"  alt="shortly" />
       </a>
       <h3>Premium a sec</h3>
       <p>
